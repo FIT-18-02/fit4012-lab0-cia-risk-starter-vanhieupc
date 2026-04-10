@@ -14,6 +14,4 @@
 - [x] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải: Khó phân biệt rõ giữa threat và vulnerability vì hai khái niệm này khá dễ nhầm lẫn.
-- Cách em xử lý: Đọc lại lý thuyết và xác định: threat là tác nhân gây hại, còn vulnerability là điểm yếu của hệ thống.
-- Điều em học được từ bài lab: Hiểu rõ cách áp dụng mô hình CIA vào hệ thống thực tế và cách phân tích một sự cố an toàn thông tin theo hướng logic, đầy đủ.
+- Điều em học được từ bài lab: Hiểu rõ hơn về mô hình CIA và cách áp dụng vào hệ thống thực tế. Đồng thời, em nhận ra tầm quan trọng của việc xác định các lỗ hổng bảo mật và đưa ra biện pháp giảm thiểu phù hợp.
